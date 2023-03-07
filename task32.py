@@ -9,7 +9,7 @@
 
 # pytest -v tests\test_32.py
 
-from random import randint
+# from random import randint
 
 # min_num = int(input('Введите минимальное число: '))
 # max_num = int(input('Введите максимальное число: '))
