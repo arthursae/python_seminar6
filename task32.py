@@ -30,5 +30,5 @@ def is_in_mass(num_lst: list[int],
             indecies.append(index)
     return indecies
 
-
+# print(num_lst)
 print(is_in_mass(num_lst, min_num, max_num))
